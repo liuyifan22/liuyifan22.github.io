@@ -1,8 +1,8 @@
 ### Welcome to Yifan Liu's Homepage! 
-## Infomation
+## Information
 Yifan Liu   
 2003.9   
-Now an undergrad at Weiyang College, Tsinghua University    
+Now an undergraduate at Weiyang College, Tsinghua University    
 Major in Fundamental Science of Mathematics and Physics & Electronic Enginnering    
 
 ## Works
