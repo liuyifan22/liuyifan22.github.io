@@ -2,7 +2,7 @@
 ## Information
 Yifan Liu   
 2003.9   
-liuyifan22@mials.tsinghua.edu.cn  
+liuyifan22@mails.tsinghua.edu.cn  
 Now an undergraduate at Weiyang College, Tsinghua University    
 Major in Fundamental Science of Mathematics and Physics & Electronic Enginnering    
 
