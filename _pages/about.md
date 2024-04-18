@@ -36,6 +36,7 @@ Haowen Sun, Yueqi Duan, Juncheng Yan, **Yifan Liu**, Jiwen Lu
 
 [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
+-   CVPR24 **(Highlight)**
 -   Introduce 2D pretrain models to 3D indoor scene segmentation.
 -   Propose a novel Mirage Projection method to tackle occlusion problems in 3D scenes.
 </div>
