@@ -27,7 +27,7 @@ My research interest includes computer vision and LLM. My big idea is to build a
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/mirage.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR24 Highlight</div><img src='images/mirage.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MirageRoom: 3D Scene Segmentation with 2D Pre-trained Models by Mirage Projection]()
