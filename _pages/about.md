@@ -61,4 +61,4 @@ Haowen Sun, Yueqi Duan, Juncheng Yan, **Yifan Liu**, Jiwen Lu
 
 # 💻 Internships
 
--   Not yet. Hope to have one soon!
+-   Not yet. Still an undergraduate.

@@ -7,7 +7,7 @@
 
 # Site Settings
 title: "Yifan Liu 刘亦钒"
-description: "Undergraduate Student at Tsinghua University, majoring in EE + Maths&Physics. Focusing on Machine Learning and Computer Vision."
+description: "Undergraduate Student at Tsinghua University, majoring in Electronic Engineering + Maths & Physics. Focusing on Machine Learning and Computer Vision."
 repository: "liuyifan22/liuyifan22.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -29,8 +29,8 @@ author:
     pubmed:
     googlescholar:
     email: "liuyifan22@mails.tsinghua.edu.cn"
-    researchgate: "https://liuyifan22.github.io/"
-    uri:
+    researchgate:
+    uri: "https://liuyifan22.github.io/intro"
     bitbucket:
     codepen:
     dribbble:
