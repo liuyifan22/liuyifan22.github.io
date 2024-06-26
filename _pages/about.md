@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes computer vision and LLM. My big idea is to build an education AI that can provide top-class education to every student in the world, no matter their region or financial status.
+I am Yifan Liu, an undergraduate student majoring in Electronic Engineering and Mathematics&Physics in Tsinghua University. My research interest includes computer vision and LLM, and have working experience in the fields of 3D Recognition and Generation. My aspiration is to build an education AI that can provide qualititive and personalized education to every student in the world, no matter their region or financial status.
 
 # 🔥 News
 
@@ -30,11 +28,11 @@ My research interest includes computer vision and LLM. My big idea is to build a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR24 Highlight</div><img src='images/mirage.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MirageRoom: 3D Scene Segmentation with 2D Pre-trained Models by Mirage Projection]()
+[MirageRoom: 3D Scene Segmentation with 2D Pre-trained Models by Mirage Projection](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_MirageRoom_3D_Scene_Segmentation_with_2D_Pre-trained_Models_by_Mirage_CVPR_2024_paper.html)
 
 Haowen Sun, Yueqi Duan, Juncheng Yan, **Yifan Liu**, Jiwen Lu
 
-[**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_MirageRoom_3D_Scene_Segmentation_with_2D_Pre-trained_Models_by_Mirage_CVPR_2024_paper.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 -   CVPR24 **(Highlight)**
 -   Introduce 2D pretrain models to 3D indoor scene segmentation.
@@ -47,8 +45,9 @@ Haowen Sun, Yueqi Duan, Juncheng Yan, **Yifan Liu**, Jiwen Lu
 
 # 🎖 Honors and Awards
 
--   _2021.10_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
--   _2021.09_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+-   _2023.10_ Overall Excellence Award, **Tsinghua University**
+-   _2023.10_ Study Excellence Award, **Tsinghua University**
+-   _2023.11_ Shuping Scholarship, **Shuping Foundation**
 
 # 📖 Educations
 

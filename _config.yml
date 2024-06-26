@@ -7,9 +7,9 @@
 
 # Site Settings
 title: "Yifan Liu 刘亦钒"
-description: "Undergraduate Student at Tsinghua University, majoring in Electronic Engineering + Maths & Physics. Focusing on Machine Learning and Computer Vision."
+description: "Undergraduate Student at Tsinghua University, focusing on Machine Learning and Computer Vision."
 repository: "liuyifan22/liuyifan22.github.io"
-google_scholar_stats_use_cdn: true
+google_scholar_stats_use_cdn: false
 
 # google analytics
 google_analytics_id: # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,7 +21,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 
 # Site Author
 author:
-    name: Yifan Liu
+    name: Yifan Liu 刘亦钒
     avatar: "images/android-chrome-512x512.png"
     bio: "Tsinghua University"
     location: "Shanghai/Beijing, China"
